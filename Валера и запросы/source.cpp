@@ -13,7 +13,6 @@
 #include <numeric>
 #include <random>
 #include <ctime>
-#include <tuple>
 
 using namespace std;
 int MOD = 1e18 + 7;

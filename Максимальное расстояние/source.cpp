@@ -11,7 +11,6 @@
 #include <numeric>
 #include <random>
 #include <ctime>
-#include <tuple>
 
 using namespace std;
 #define int long long
